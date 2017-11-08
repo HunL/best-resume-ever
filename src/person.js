@@ -1,15 +1,15 @@
 /* eslint-disable */
 export const PERSON = {
   name: {
-    first: 'John',
+    first: 'Jeff',
     middle: '',
-    last: 'Doe',
+    last: 'Li',
   },
-  about: 'Hi, my name is John Doe. I\'m just about the most boring type of person you could possibly imagine. I like collecting leaves from the tree in my back yard and documenting each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.',
+  about: 'Hi, my name is Jeff Li. I\'m just about the most boring type of person you could possibly imagine. I like collecting leaves from the tree in my back yard and documenting each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.',
   position: 'Software Developer',
   birth: {
     year: 1990,
-    location: 'New York'
+    location: 'GuangZhou'
   },
   experience: [{
       company: 'Company A',
@@ -77,12 +77,12 @@ export const PERSON = {
   ],
   skillDescription: 'Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Klingon).',
   contact: {
-    email: 'john.doe@email.com',
+    email: 'ljiehui0826@gmail.com',
     phone: '0123 456789',
     street: '1234 Broadway',
-    city: 'New York',
+    city: 'GuangZhou',
     website: 'johndoe.com',
     github: 'johnyD'
   },
-  lang: 'en' // en, de, fr, pt, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, nl, he, zh-tw, lt
+  lang: 'zh' // en, de, fr, pt, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, nl, he, zh-tw, lt
 };
