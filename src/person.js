@@ -12,77 +12,77 @@ export const PERSON = {
     location: 'GuangZhou'
   },
   experience: [{
-      company: 'Company A',
-      position: 'Developer',
-      timeperiod: 'since January 2016',
+      company: 'GuangZhou xxx Science an Technology Information co.,LTD',
+      position: 'Backend Developer',
+      timeperiod: 'since April 2017',
       description: 'Programming and watching cute cat videos.'
     },
     {
-      company: 'Company B',
-      position: 'Frontend Developer',
-      timeperiod: 'January 2015 - December 2015',
+      company: 'GuangZhou xxx Science an Technology Information co.,LTD',
+      position: 'Backend Developer',
+      timeperiod: 'April 2014 - December 2015',
       description: 'Fulfillment of extremely important tasks.'
     },
     {
-      company: 'Company C',
-      position: 'Trainee',
-      timeperiod: 'March 2014 - December 2014',
+      company: 'GuangZhou xxx Science an Technology Information co.,LTD',
+      position: 'Backend Developer',
+      timeperiod: 'July 2012 - November 2013',
       description: 'Making coffee and baking cookies.'
     }
   ],
   education: [{
-      degree: 'Master of Arts',
-      timeperiod: 'March 2012 - December 2013',
-      description: 'Major in Hacking and Computer Penetration, University A, New York, USA.'
+      degree: 'Master of Business Administration',
+      timeperiod: 'May 2014 - December 2015',
+      description: 'Major in Enterprise Management, University A, GuangZhou, CHINA.'
     },
     {
       degree: 'Bachelor of Science',
-      timeperiod: 'March 2009 - December 2011',
-      description: 'Major in Engineering, University B, Los Angeles, USA.'
+      timeperiod: 'September 2008 - June 2012',
+      description: 'Major in Computer Science, University B, GuangZhou, CHINA.'
     }
   ],
   // skill level goes 0 to 100
   skills: [{
-      name: 'HTML5',
+      name: 'Erlang',
       level: '99'
     },
     {
-      name: 'CSS3',
-      level: '95'
-    },
-    {
-      name: 'JavaScript',
-      level: '97'
-    },
-    {
-      name: 'Node.js',
-      level: '93'
-    },
-    {
-      name: 'Angular 2',
-      level: '60'
-    },
-    {
-      name: 'TypeScript',
-      level: '80'
-    },
-    {
-      name: 'ES.Next',
+      name: 'C',
       level: '70'
     },
     {
+      name: 'Python',
+      level: '60'
+    },
+    {
+      name: 'C++',
+      level: '60'
+    },
+    {
+      name: 'JavaScript',
+      level: '30'
+    },
+    {
+      name: 'Node.js',
+      level: '30'
+    },
+    {
+      name: 'Java',
+      level: '30'
+    },
+    {
       name: 'Docker',
-      level: '99'
+      level: '10'
     }
   ],
-  skillDescription: 'Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Klingon).',
+  skillDescription: 'Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Mandarin).',
   contact: {
     email: 'ljiehui0826@gmail.com',
     phone: '0123 456789',
     street: '1234 Broadway',
     city: 'GuangZhou',
     website: 'johndoe.com',
-    github: 'johnyD'
+    github: 'HunL'
   },
-  lang: 'zh' // en, de, fr, pt, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, nl, he, zh-tw, lt
+  lang: 'cn' // en, de, fr, pt, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, nl, he, zh-tw, lt
 };
