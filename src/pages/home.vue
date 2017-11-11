@@ -54,6 +54,14 @@
         </div>
       </router-link>
     </div>
+    <div class="preview">
+      <router-link v-bind:to="'/resume/geek-style'">
+        <div class="preview-wrapper">
+          <img src="../assets/preview/resume-geek-style.png" />
+          <span>geek-style</span>
+        </div>
+      </router-link>
+    </div>
   </div>
 </div>
 </template>
