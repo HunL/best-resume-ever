@@ -3,9 +3,9 @@ export const PERSON = {
   name: {
     first: 'Jeff',
     middle: '',
-    last: 'Li',
+    last: 'Lee',
   },
-  about: 'Hi, my name is Jeff Li. I\'m just about the most boring type of person you could possibly imagine. I like collecting leaves from the tree in my back yard and documenting each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.',
+  about: 'Hi, my name is Jeff Lee. I\'m just about the most boring type of person you could possibly imagine. I like collecting leaves from the tree in my back yard and documenting each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.',
   position: 'Software Developer',
   birth: {
     year: 1990,
